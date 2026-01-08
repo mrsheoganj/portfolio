@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "admin-user",
+      "email": "prashantkumarsheoganj@gmail.com",
+      "password": "password",
+      "name": "Prashant Kumar"
+    }
+  ],
+  "siteConfig": [
+    {
+      "id": "1",
+      "key": "hero_title",
+      "value": "Creative Graphic Designer & Visual Artist"
+    },
+    {
+      "id": "2",
+      "key": "hero_subtitle",
+      "value": "Crafting minimal, unique, and attractive digital experiences."
+    },
+    {
+      "id": "3",
+      "key": "about_text",
+      "value": "I am Prashant Kumar, a passionate graphic designer from Rajasthan, India. I specialize in branding, logo design, and web interfaces that leave a lasting impression."
+    },
+    {
+      "id": "4",
+      "key": "contact_email",
+      "value": "prashantkumarsheoganj@gmail.com"
+    },
+    {
+      "id": "5",
+      "key": "social_linkedin",
+      "value": "#"
+    },
+    {
+      "id": "6",
+      "key": "social_instagram",
+      "value": "#"
+    }
+  ],
+  "portfolioItems": [
+    {
+      "id": "p1",
+      "title": "Minimalist Brand Identity",
+      "description": "A clean and modern identity for a tech startup.",
+      "imageUrl": "https://images.unsplash.com/photo-1600607686527-6fb886090705?auto=format&fit=crop&q=80&w=2700",
+      "category": "Branding",
+      "createdAt": "2026-01-08T15:17:34.453Z"
+    },
+    {
+      "id": "p2",
+      "title": "Modern Logo Design",
+      "description": "Geometric logo concept for an architecture firm.",
+      "imageUrl": "https://images.unsplash.com/photo-1626785774573-4b7993143a2d?auto=format&fit=crop&q=80&w=2700",
+      "category": "Logo",
+      "createdAt": "2026-01-08T15:17:34.453Z"
+    },
+    {
+      "id": "p3",
+      "title": "E-commerce Web Design",
+      "description": "User-friendly interface for an online fashion store.",
+      "imageUrl": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80&w=2700",
+      "category": "Web Design",
+      "createdAt": "2026-01-08T15:17:34.453Z"
+    }
+  ]
+}
